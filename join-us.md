@@ -23,7 +23,7 @@ Once you've decided to join us, full-time members will be asked to pay our stand
 
 Our three terms follow the academic year with short breaks over Christmas and Easter and a long summer break from July - September.
 
-Prospective new members can come along to any Monday evening rehearsal and try us out. Here's our current [rehearsal schedule](https://southlondonsingers.org.uk/wp-content/uploads/2025/01/SLS-Rehearsal-Schedule-Spring-and-Summer-2025.pdf).
+Prospective new members can come along to any Monday evening rehearsal and try us out. Here's our current [rehearsal schedule](documents/schedule-2025-spring-summer.pdf).
 
 **Let us know to expect you by emailing us at info@southlondonsingers.com**
 
