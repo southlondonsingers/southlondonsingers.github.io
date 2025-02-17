@@ -54,8 +54,12 @@ Familiar composers such as Handel, Bach and Britten feature alongside lesser-kno
 
 We sing a variety of well-known pieces alongside new discoveries - and have even debuted some brand-new pieces written for us by local composers and friends of the choir.
 
-## Music Hire
+## Calling All Singers!
 
-The SLS owns sets of some of the music we have performed and is willing to hire these out to other choirs. Click here to find our [music hire list](documents/hirelist.pdf).
+Our chamber choir is based in Beckenham, in the south-east London borough of Bromley. We are a well-established part of the local music scene and give around four concerts every year, performing a wide selection of choral music.
 
-If you are interested in hiring some of our sets of scores, please [email us](mailto:info@southlondonsingers.com) for details of our charges and other terms.
+We rehearse on Monday evenings from 19:45 - 21:30 at Beckenham Methodist Church.
+
+We're on the lookout for more singers, and are keen to welcome new sopranos, altos, tenors and basses.
+
+Find out how to become a member of the choir or try out a Monday rehearsal

@@ -29,16 +29,6 @@ St George's Church, Beckenham
 
 Get your tickets now!
 
-## Calling All Singers!
-
-Our chamber choir is based in Beckenham, in the south-east London borough of Bromley. We are a well-established part of the local music scene and give around four concerts every year, performing a wide selection of choral music.
-
-We rehearse on Monday evenings from 19:45 - 21:30 at Beckenham Methodist Church.
-
-We're on the lookout for more singers, and are keen to welcome new sopranos, altos, tenors and basses.
-
-See our [Join us](join-us) page for our rehearsal schedule and details of how to get involved.
-
 ## South London Singers 2024/25 season
 
 **29 March 2025:** Spring Sonnets<br>
@@ -51,8 +41,6 @@ Beckenham Methodist Church
 
 ## Join Us
 
-Find out how to become a member of the choir or try out a Monday rehearsal
-
 [Sing with the SLS](join-us)
 
 ## Support Us
@@ -63,6 +51,20 @@ Friends of the SLS are vital to our work and get free or discounted concert tick
 
 ## Contact Us
 
-**Email:** <info@southlondonsingers.com><br>
-**Call:** 020 8656 2815 (Mary)<br>
-**Text/Whatsapp:** 07768 968824 (Emily)
+[Contact Us](contact)
+
+# About the South London Singers
+
+**SLS is a small Beckenham choir made up of a diverse group of around 30 local singers.**
+
+We perform a mixture of old and new sacred and secular choral music, but are not a religious choir.
+
+We perform around four concerts per year. This means each term we can devote plenty of rehearsal time to learning our concert pieces. So you won't need to do too much 'homework'!
+
+We are not required to be fluent sight-readers but are expected to be able to use our scores to sing accurately and to note down the Musical Director's guidance.
+
+We like to have fun at our rehearsals and many of us enjoy socialising around our rehearsals' start and end times. We hold a few social events for choir members throughout the season.
+
+# Who are we?
+
+The South London Singers is a Beckenham-based chamber choir made up of a diverse group of around 30 local singers.
