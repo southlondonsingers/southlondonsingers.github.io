@@ -3,13 +3,9 @@ title: Concerts
 date: '2021-09-20'
 ---
 
-# Our Concerts
+Our next concert is a Springtime Celebration of Sonnets on Saturday 29 March 2025 at St. George's Church, Beckenham. As well as enjoying an evening of seasonal choral music, we're pleased to be welcoming new SLS music director Christopher Braime.
 
-## We put on four concerts a year, between September and July.
-
-Our concerts are held at different venues in and around Beckenham, and start at 7:45pm.
-
-## Book your tickets at our box office below.
+# Book your tickets
 
 <div id="embedTS_JGJMK" style="width:100%">
 </div>
@@ -24,7 +20,3 @@ Our concerts are held at different venues in and around Beckenham, and start at 
         s.parentNode.insertBefore(el, s);
     })();
 </script>
-
-## See our upcoming concerts here.
-
-### Click on the title of each concert to find out more details.
