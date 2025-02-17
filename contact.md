@@ -3,6 +3,15 @@ title: Contact
 date: '2019-08-22'
 ---
 
+# Join our mailing list
+
+## Subscribe to our mailing list
+
+Get the latest information about our upcoming concerts and other social events in and around Beckenham and pass it on to your friends and family! We'll only ever contact you about our local events and updates, and will never pass your information on to a third party.
+
+<iframe style="border: 0;" src="https://southlondonsingers.github.io/forms/mailchimp" width="600" height="800">
+</iframe>
+
 # Get in touch
 
 If you'd like to become a member of the South London Singers and come along to try out one of our rehearsals, let us know to expect you by email, text or phone call.
@@ -39,3 +48,7 @@ Current trustees are:
 **Trustee:** Patricia Cummings
 
 You can contact the trustees by emailing <info@southlondonsingers.com>.
+
+## Address
+
+South London Singers, Care of 39 Balfour Road, South Norwood, London, SE25 5JY
