@@ -3,6 +3,18 @@ title: About us
 date: '2023-07-03'
 ---
 
+# About the South London Singers
+
+**SLS is a small Beckenham choir made up of a diverse group of around 30 local singers.**
+
+We perform a mixture of old and new sacred and secular choral music, but are not a religious choir.
+
+We perform around four concerts per year. This means each term we can devote plenty of rehearsal time to learning our concert pieces. So you won't need to do too much 'homework'!
+
+We are not required to be fluent sight-readers but are expected to be able to use our scores to sing accurately and to note down the Musical Director's guidance.
+
+We like to have fun at our rehearsals and many of us enjoy socialising around our rehearsals' start and end times. We hold a few social events for choir members throughout the season.
+
 # Who are we?
 
 The South London Singers is a Beckenham-based chamber choir made up of a diverse group of around 30 local singers.

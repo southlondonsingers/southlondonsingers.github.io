@@ -24,3 +24,18 @@ To support the choir in bringing music to Beckenham, find out how to [become a f
 To get details of our [music hire list](documents/hirelist.pdf) and find out how to rent sheet music from us, visit our [about us](about) page.
 
 For details on our upcoming performances head to our [box office](box-office).
+
+# Charity Trustees
+
+We are [a registered charity](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/800934/charity-overview) and are managed by a board of elected Trustees.
+
+Current trustees are:
+
+**Chair:** David Peters<br>
+**Secretary:** Tom Walters<br>
+**Treasurer:** Emily Seymour<br>
+**Trustee:** David Jackson<br>
+**Trustee:** Mary Jackson<br>
+**Trustee:** Patricia Cummings
+
+You can contact the trustees by emailing <info@southlondonsingers.com>.
