@@ -17,10 +17,10 @@ To get in touch with us about hiring from our music library, becoming a Friend o
 
 # More information
 
-To find out more about becoming a choir member, visit our [join the choir](https://southlondonsingers.org.uk/join-the-south-london-singers/) page.
+To find out more about becoming a choir member, visit our [join the choir](join-us) page.
 
-To support the choir in bringing music to Beckenham, find out how to [become a friend.](https://southlondonsingers.org.uk/friends/)
+To support the choir in bringing music to Beckenham, find out how to [become a friend.](friends)
 
-To get details of our [music hire list](https://southlondonsingers.org.uk/wp-content/uploads/2019/08/hirelist.pdf) and find out how to rent sheet music from us, visit our [about us](https://southlondonsingers.org.uk/about/) page.
+To get details of our [music hire list](documents/hirelist.pdf) and find out how to rent sheet music from us, visit our [about us](about) page.
 
-For details on our upcoming performances head to our [box office](https://southlondonsingers.org.uk/box-office/).
+For details on our upcoming performances head to our [box office](box-office).

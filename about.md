@@ -19,7 +19,7 @@ Find out more about the professional musicians who lead us and accompany our sin
 
 ## How to Join Us
 
-Find out more about how to join us, from tyring us out to becoming a regular member.
+Find out more about how to join us, from trying us out to becoming a regular member.
 
 # Address
 
