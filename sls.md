@@ -30,17 +30,17 @@ You can contact the trustees by emailing <info@southlondonsingers.com>.
 
 # What do you need to know?
 
-- Rehearsals are held on Monday evenings at 7.45pm at Beckenham Methodist Church, Bromley Road, Beckenham. Click here for our [rehearsal schedule](https://southlondonsingers.org.uk/wp-content/uploads/2025/01/SLS-Rehearsal-Schedule-Spring-and-Summer-2025.pdf).
+- Rehearsals are held on Monday evenings at 7.45pm at Beckenham Methodist Church, Bromley Road, Beckenham. Click here for our [rehearsal schedule](documents/schedule-2025-spring-summer.pdf).
 - **How to get here:** Beckenham Methodist Church is close to several bus routes as well as Beckenham Junction railway station and Tramlink terminus. Find us on [Google Maps here](https://goo.gl/maps/SPFvvvcC1jqvMZWw5).
 - The [car park in St George's Road](https://goo.gl/maps/KVvUytDbxrHgyAcs5), a short walk from the Methodist Church, is free after 7.30pm.
 - The majority of SLS concerts take place in local venues, including Beckenham Methodist Church and St. George's Church.
 - Social events have included parties, summer barbecues, restaurant meals and quiz nights.
 - Although we rehearse in rooms belonging to the Beckenham Methodist Church, we are not a church choir and welcome members of any faith.
-- **Find out more:** how to [join the South London Singers](https://southlondonsingers.org.uk/join-the-south-london-singers/).
+- **Find out more:** how to [join the South London Singers](join-us).
 
 # What sort of music do we sing?
 
-We perform from a wide-ranging [repertoire](https://southlondonsingers.org.uk/wp-content/uploads/2019/08/SLS_Repertoire.pdf), which covers both secular and sacred music from the fifteenth century to the present. Most of our repertoire is performed in four parts (SATB), either a cappella or with organ, piano or light instrumental accompaniment suited to a smaller chamber group.
+We perform from a wide-ranging [repertoire](documents/repertoire.pdf), which covers both secular and sacred music from the fifteenth century to the present. Most of our repertoire is performed in four parts (SATB), either a cappella or with organ, piano or light instrumental accompaniment suited to a smaller chamber group.
 
 Familiar composers such as Handel, Bach and Britten feature alongside lesser-known composers such as Joseph Jongen and Michael Haydn.
 
@@ -48,6 +48,6 @@ We sing a variety of well-known pieces alongside new discoveries - and have even
 
 ## Music Hire
 
-The SLS owns sets of some of the music we have performed and is willing to hire these out to other choirs. Click here to find our [music hire list](https://southlondonsingers.org.uk/wp-content/uploads/2019/08/hirelist.pdf).
+The SLS owns sets of some of the music we have performed and is willing to hire these out to other choirs. Click here to find our [music hire list](documents/hirelist.pdf).
 
 If you are interested in hiring some of our sets of scores, please [email us](mailto:info@southlondonsingers.com) for details of our charges and other terms.
