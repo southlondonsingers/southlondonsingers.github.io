@@ -11,7 +11,7 @@ How to support us by joining our network of Friends of the South London Singers
 
 By signing up to be a Friend of the SLS, not only will you be safeguarding the future of the choir, you'll also be able to take advantage of perks offered to our Friends network.
 
-You'll get discounted or free entry to our concerts and selected social events and you'll be able to attend our annual [Friends Celebration Evening](https://southlondonsingers.org.uk/concerts/), at which our Friends' President, **Susan Bullock CBE**, will be guest of honour.
+You'll get discounted or free entry to our concerts and selected social events.
 
 Your support will also mean that we can explore exciting opportunities for the choir to engage the local community in new ways. We aim to give the next generation of local choral musicians the opportunity to learn and develop their skills with us and enhance the musical life of Beckenham well into the future.
 
@@ -60,17 +60,9 @@ You can sign up to Bronze, Silver or Gold level membership:
 - Seated at the President's table at the annual Friends Celebration Evening
 - FREE entry into the prize draw at the annual Friends Celebration Evening
 
-# Testimonials
-
-## Nick Wibberley -- Chair of the Friends of the SLS
-
-![image](https://southlondonsingers.org.uk/wp-content/uploads/2022/04/IMG\_3999-rotated-e1649783366533.jpeg)
-
-I am so very excited that we are launching our new Friends' scheme in this, our 40th year! I encourage all of our supporters to consider signing up to our brilliant new network.
-
 ## Susan Bullock CBE - President of the Friends
 
-![image](https://southlondonsingers.org.uk/wp-content/uploads/2022/04/thumbnail\_SB.jpg)
+![image](images/susan_bullock.jpg)
 
 I am so happy that musical groups are becoming active again in the local community. I am very pleased to be supporting the SLS as the first President of the Friends.
 
@@ -80,40 +72,15 @@ We welcome support in lots of ways!
 
 ### Come and hear us
 
-We are always keen to welcome new audience members to our concerts. Find out how to [buy tickets here.](https://southlondonsingers.org.uk/box-office/)
+We are always keen to welcome new audience members to our concerts. Find out how to [buy tickets here.](box-office)
 
 ### Join the choir
 
-We would love to welcome new members. Find out how to attend a no-commitment [trial rehearsal here](https://southlondonsingers.org.uk/join-the-south-london-singers/).
+We would love to welcome new members. Find out how to attend a no-commitment [trial rehearsal here](join-us).
 
 ### Subscribe to our mailing list
 
 Get the latest information about our upcoming concerts and other social events in and around Beckenham and pass it on to your friends and family! We'll only ever contact you about our local events and updates, and will never pass your information on to a third party.
-
-## Get our emails
-
-* indicates required
-
-Email Address *
-
-First Name
-
-Last Name
-
-Marketing Permissions
-
-South London Singers will only ever contact you with details of our upcoming events, and will never pass your information to any third party. Opt in to our emails here:
-
-Email
-
-You can unsubscribe at any time by clicking the link in the footer of our emails. For more information about our privacy practices, please contact us.
-
-We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. [Learn more about Mailchimp's privacy practices here.](%22https://mailchimp.com/legal/terms%22)
-
-[![](%22https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg%22)](%22http://eepurl.com/hV2r2z%22 "%22Mailchimp")
-
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js">
-</script>
 
 ## Get our emails
 
