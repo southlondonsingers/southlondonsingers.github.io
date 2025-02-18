@@ -2,8 +2,6 @@ title: South London Singers
 description: Registered Charity No. 800934
 theme: minima
 header_pages:
+  - box-office.md
   - join-us.md
   - friends.md
-  - box-office.md
-  - contact.md
-  - musicians.md

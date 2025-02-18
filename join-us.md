@@ -1,9 +1,6 @@
 ---
-title: Join the South London Singers
-date: '2019-08-22'
+title: Join Us
 ---
-
-# How to join the South London Singers
 
 Whether you're a soprano, alto, tenor or bass, we'd love to welcome you to join our group.
 

@@ -1,6 +1,5 @@
 ---
-title: Friends of the South London Singers
-date: '2020-02-12'
+title: Friends
 ---
 
 # Becoming a Friend of the SLS

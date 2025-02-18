@@ -1,6 +1,5 @@
 ---
-title: Our Musicians
-date: '2023-07-03'
+title: Our Professional Musicians
 ---
 
 # Music Director: Christopher Braime

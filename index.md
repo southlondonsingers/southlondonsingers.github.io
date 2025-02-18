@@ -1,6 +1,5 @@
 ---
-title: The South London Singers
-date: '2019-08-21'
+title: South London Singers
 ---
 
 Our friendly South London chamber choir is based in Beckenham, in the borough of Bromley. We rehearse on Monday evenings and hold concerts around four times a year.
@@ -22,4 +21,8 @@ We're currently open to new choir members.
 
 The Friends of the South London Singers are vital to our work and get free or discounted concert tickets, plus other perks.
 
-# [Contact Us](contact)
+--------------------------------------------------------------------------------
+
+- [Contact Us](contact)
+- [Music Hire](music-hire)
+- [Our Professional Musicians](musicians)
