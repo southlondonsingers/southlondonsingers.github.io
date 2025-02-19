@@ -11,7 +11,7 @@ Get the latest information about our upcoming concerts and other social events i
 
 # Get in touch
 
-If you'd like to become a member of the South London Singers and come along to try out one of our rehearsals, let us know to expect you by email, text or phone call.
+If you'd like to become a member or friend of the South London Singers, or come along to try out one of our rehearsals, get in contact by email, text or phone call.
 
 - Email: <info@southlondonsingers.com>
 - Call: 020 8656 2815 (Membership Secretary Mary)

@@ -12,6 +12,8 @@ Your support will also mean that we can explore exciting opportunities for the c
 
 Choir members can also sign up to be Friends of the SLS, at a discounted rate of 50%.
 
+To sign up, get in contact via our [contact us](contact) page.
+
 You can sign up to Bronze, Silver or Gold level membership:
 
 ## Bronze
